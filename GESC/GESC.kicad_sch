@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "dc289c68-d15f-4833-9b73-29cf7cb2a289")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 175.26 74.93)
+		(size 43.18 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b62f6a88-d711-46ed-9f22-d8ad594670ac")
+		(property "Sheetname" "Powerstage"
+			(at 175.26 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Powerstage.kicad_sch"
+			(at 175.26 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GESC"
+				(path "/dc289c68-d15f-4833-9b73-29cf7cb2a289"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
