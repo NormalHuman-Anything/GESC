@@ -6,6 +6,120 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 64.77 73.66)
+		(size 48.26 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "52d04b8d-c40b-425a-8466-d9c480f0fea8")
+		(property "Sheetname" "Logic"
+			(at 64.77 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Logic.kicad_sch"
+			(at 64.77 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GESC"
+				(path "/dc289c68-d15f-4833-9b73-29cf7cb2a289"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 130.81)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "82f3b7eb-8bd6-4bcb-bda1-a40c2d94d125")
+		(property "Sheetname" "CAN"
+			(at 68.58 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can.kicad_sch"
+			(at 68.58 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GESC"
+				(path "/dc289c68-d15f-4833-9b73-29cf7cb2a289"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 34.29)
+		(size 24.13 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "89bbbdb6-808f-4e2c-a60d-63405fa4da92")
+		(property "Sheetname" "voltage regulation"
+			(at 41.91 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "regulators.kicad_sch"
+			(at 41.91 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GESC"
+				(path "/dc289c68-d15f-4833-9b73-29cf7cb2a289"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 175.26 74.93)
 		(size 43.18 35.56)
 		(fields_autoplaced yes)
