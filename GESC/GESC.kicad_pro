@@ -488,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../PROD/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
