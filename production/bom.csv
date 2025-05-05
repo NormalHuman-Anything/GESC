@@ -1,0 +1,16 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_4, _3, _2, ",,4,,
+"C1_2, C1, C10_2, C10, C15_2, C15, C16_2, C16, C17, C18_2, C18, C19, C2_2, C2, C20, C21, C22_2, C22, C23_2, C23, C24_2, C24, C3_2, C3, C4_2, C4, C5_2, C5, C6_2, C6, C7_2, C7, C8_2, C8, C9_2, C9",1210,36,470nF,C192761
+J1,PinHeader_2x02_P2.00mm_Vertical_SMD,1,gates_A,
+J2,PinHeader_2x03_P2.00mm_Vertical_SMD,1,gates_B,
+J3,PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Right,1,SH2,C2883799
+J4,PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Right,1,SH1,C2883799
+J5,PinHeader_2x03_P2.00mm_Vertical_SMD,1,gates_C,
+J6,PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Right,1,SH3,C2883799
+"Q1, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9",TOLL-8_L10.4-W9.9-P1.20-LS11.7-BL,18,TOLL,C2979263
+"R1, R2, R49, R50, R53, R54",0603,6,4R7,C23164
+"R10, R11, R14, R15, R48, R51, R56, R57, R59, R60, R7, R8",0603,12,4R7,
+"R12, R13, R16, R17, R52, R55, R58, R61, R9",R3920,9,0.2mR,C5224155
+"R18, R47, R5, R6",0603,4,10k,
+"R3, R4",0603,2,10k,C2930027
+TH1,0402,1,10k ntc,C13564
