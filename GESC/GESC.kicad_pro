@@ -512,7 +512,7 @@
       "plot": "../PROD/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "GESC.step",
       "svg": "",
       "vrml": ""
     },
